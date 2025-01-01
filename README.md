@@ -1,13 +1,13 @@
-# 🎵 **Mengeksplorasi Pola Popularitas Musik** 🎶  
+# 🎵 **Memahami Pola Popularitas Musik di Era Digital** 🎶  
 
-## 📝 **Pendahuluan**  
+## **Pendahuluan**  
 Di era digital, musik tersedia secara instan melalui berbagai platform streaming seperti Spotify. Dengan jutaan lagu yang dapat diakses kapan saja, muncul pertanyaan-pertanyaan menarik yang berkaitan dengan popularitas musik: _Apa yang membuat sebuah lagu lebih sering diputar? Bagaimana karakteristik lagu berhubungan dengan aktivitas tertentu? Apakah preferensi musik berubah seiring waktu dan situasi?_
 
 Topik ini relevan tidak hanya untuk para profesional di industri musik—seperti musisi, produser, dan label rekaman—tetapi juga untuk pengguna awam yang penasaran tentang preferensi mereka sendiri. Menjawab pertanyaan ini dapat membantu platform streaming meningkatkan personalisasi pengalaman pengguna, sementara musisi dan label dapat memahami elemen yang memikat audiens mereka. 
 
 ---
 
-## 🔍 **Mengapa Hal Ini Penting**  
+## **Mengapa Hal Ini Penting**  
 Musik adalah bagian penting dalam hidup, baik untuk hiburan, relaksasi, maupun motivasi. Memahami faktor-faktor yang memengaruhi preferensi musik dapat membantu:  
 - Menjelaskan pola di balik perilaku mendengarkan.  
 - Menyoroti karakteristik musik yang cocok untuk aktivitas tertentu, seperti olahraga atau bersantai.  
@@ -17,10 +17,9 @@ Musik adalah bagian penting dalam hidup, baik untuk hiburan, relaksasi, maupun m
 
 ## 📊 **Pendekatan Kami**  
 
-### **Sumber Data**  
-Kami menggunakan dataset Spotify, yang mencakup fitur-fitur berikut:  
-- **Karakteristik Audio:** Durasi, mode (mayor/minor), valence, tempo, energi, acousticness.  
-- **Fitur Kontekstual:** Genre, popularitas, tahun rilis.  
+### **Sumber Data**
+Data diambil dari : [Sumber](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md)
+
 
 ### **Metodologi**  
 1. **Analisis Data Eksplorasi (EDA):** Visualisasi pola dan tren.  
@@ -31,7 +30,7 @@ Kami menggunakan dataset Spotify, yang mencakup fitur-fitur berikut:
 
 ---
 
-## 🤔 **Pertanyaan Utama yang Dieksplorasi**  
+## **Pertanyaan Utama yang Dieksplorasi**  
 1. **Apa yang Membuat Sebuah Lagu Menjadi Populer?**  
    - Temukan faktor utama yang memengaruhi popularitas.  
 2. **Apakah Lagu dengan Durasi Tertentu Lebih Cenderung Populer?**  
@@ -47,7 +46,7 @@ Kami menggunakan dataset Spotify, yang mencakup fitur-fitur berikut:
 
 ---
 
-## 🎯 **Siapa yang Diuntungkan?**  
+## 🎯 **Manfaat Analisis Bagi Pendengar dan Industri**  
 
 ### **🎧 Pendengar:**  
 - Memahami alasan memilih lagu tertentu untuk aktivitas tertentu.  
@@ -56,12 +55,3 @@ Kami menggunakan dataset Spotify, yang mencakup fitur-fitur berikut:
 ### **💼 Profesional di Industri Musik:**  
 - Mendapatkan wawasan untuk menciptakan musik yang menarik bagi audiens target.  
 - Menentukan strategi rilis berdasarkan tren berbasis data.  
-
-### **📡 Platform Streaming:**  
-- Meningkatkan sistem rekomendasi dengan wawasan mendalam tentang perilaku pengguna.  
-- Mengidentifikasi tren musiman atau kontekstual dalam preferensi musik.  
-
----
-
-## 🚀 **Mari Mulai Menjelajahi Data Musik!**  
-Dengan proyek ini, kami ingin menjembatani data dan melodi, menyediakan wawasan yang dapat diterapkan untuk konsumen maupun pemimpin industri. 🎵  
