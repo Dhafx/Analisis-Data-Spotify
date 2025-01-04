@@ -22,11 +22,11 @@ Data diambil dari : [Sumber](https://github.com/rfordatascience/tidytuesday/blob
 
 
 ### **Metodologi**  
-1. **Analisis Data Eksplorasi (EDA):** Visualisasi pola dan tren.  
-2. **Korelasi Statistik:** Mengidentifikasi hubungan antara fitur dan popularitas.  
-3. **Segmentasi Berdasarkan Aktivitas:** Mengelompokkan lagu berdasarkan karakteristik yang cocok untuk aktivitas tertentu (misalnya olahraga, relaksasi).  
-4. **Analisis Temporal:** Melacak perubahan preferensi dari waktu ke waktu.  
-5. **Profil Genre:** Menghubungkan popularitas dengan genre musik.  
+1. **Mengambil Data:** Mengambil data dari sumbernya.
+2. **Analisis Data Eksplorasi (EDA):** Visualisasi pola dan tren.
+3. **Visualization & Explanatory Analysis:** Membuat Visualisasi dari hasil EDA dan melakukan penjelasan analisis berdasarkan visualnya.
+4. **Conclusion:** Membuat kesimpulan berdasarkan analiis
+
 
 ---
 
