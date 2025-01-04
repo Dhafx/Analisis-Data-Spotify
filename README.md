@@ -15,11 +15,9 @@ Musik adalah bagian penting dalam hidup, baik untuk hiburan, relaksasi, maupun m
 
 ---
 ## **Dataset Spotify Songs**
-Data diambil dari : [Sumber](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md)
-
 Dataset ini berasal dari paket spotifyr, berisi metadata sekitar 5000 lagu dari enam genre utama: EDM, Latin, Pop, R&B, Rap, dan Rock. Data dikumpulkan oleh Kaylin Pavlik menggunakan fitur audio Spotify untuk mengeksplorasi dan mengklasifikasi lagu. Kontributor utama paket spotifyr meliputi Charlie Thompson, Josiah Parry, Donal Phipps, dan Tom Wolff.
 
-Dataset ini dapat diunduh melalui [Tautan ini](
+Dataset ini dapat diunduh melalui [Tautan ini](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md)
 
 ## **Metodologi**  
 1. **Mengambil Data:** Mengambil data dari sumbernya.
