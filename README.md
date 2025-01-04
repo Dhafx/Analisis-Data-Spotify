@@ -73,17 +73,17 @@ Dataset ini dapat diunduh melalui [Tautan ini](
 ![image](https://github.com/user-attachments/assets/25451f5e-1716-43e3-85b8-addc79061ab6)
 
 
-**Untuk Penjelasan dan Visualisasi yang lebih lanjut, anda bisa membuka file .ipynb kami**
+**Untuk Penjelasan dan Visualisasi yang lebih lanjut, anda bisa membuka file collab penelitian kami**
 
 ---
 
 ##  **Manfaat Analisis Bagi Pendengar dan Industri**  
 
-### ** Pendengar:**  
+### ** Pendengar: **  
 - Memahami alasan memilih lagu tertentu untuk aktivitas tertentu.  
 - Menemukan rekomendasi musik yang lebih sesuai dengan preferensi mereka.  
 
-### ** Profesional di Industri Musik:**  
+### ** Profesional di Industri Musik: **  
 - Mendapatkan wawasan untuk menciptakan musik yang menarik bagi audiens target.  
 - Menentukan strategi rilis berdasarkan tren berbasis data.
 
