@@ -21,9 +21,9 @@ Dataset ini dapat diunduh melalui [Tautan ini](https://github.com/rfordatascienc
 
 ## **Metodologi**  
 1. **Mengambil Data:** Mengambil data dari sumbernya.
-2. **Analisis Data Eksplorasi (EDA):** Visualisasi pola dan tren.
+2. **Analisis Data Eksplorasi (EDA):** Mengeksplorasi data untuk memahami pola, distribusi, dan tren utama melalui statistik deskriptif dan visualisasi awal.
 3. **Visualization & Explanatory Analysis:** Membuat Visualisasi dari hasil EDA dan melakukan penjelasan analisis berdasarkan visualnya.
-4. **Conclusion:** Membuat kesimpulan berdasarkan analiis
+4. **Conclusion:** Menyimpulkan hasil analisis berdasarkan temuan EDA dan visualisasi
 
 
 ---
