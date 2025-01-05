@@ -73,6 +73,19 @@ Dataset ini dapat diunduh melalui [Tautan ini](https://github.com/rfordatascienc
 
 **Untuk Penjelasan dan Visualisasi yang lebih lanjut, anda bisa membuka file collab penelitian kami**
 
+
+5. Genre Pop memiliki rata-rata popularitas tertinggi (47.74), diikuti oleh Latin (47.03) dan Rap (43.22). Sebaliknya, EDM memiliki rata-rata popularitas lebih rendah (34.83). Distribusi popularitas menunjukkan Pop memiliki sebaran yang merata dengan nilai maksimum yang tinggi, sementara EDM memiliki variasi lebih rendah.
+
+
+![image](https://github.com/user-attachments/assets/dee06b96-47fa-49e2-94f1-e2502c95c4f1)
+
+
+6. Preferensi musik telah bergeser dari elemen akustik ke musik elektronik dan energik, dipengaruhi oleh platform streaming yang mempermudah akses dan meningkatkan pengaruh global terhadap selera musik.
+
+
+![image](https://github.com/user-attachments/assets/bb7f12ef-3313-46da-a971-30f46a9de732)
+
+
 ---
 
 ##  **Manfaat Analisis Bagi Pendengar dan Industri**  
